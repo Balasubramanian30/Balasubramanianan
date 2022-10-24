@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Balasubramanianan
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Full stack development
-- 💞️ I’m looking to collaborate on ...
 - 📫 reach me @balumarketing2002@gmail.com
 - View MY Site To Know More : https://tinyurl.com/personalsitee
 

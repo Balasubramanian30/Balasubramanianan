@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Balasubramanianan
+- 👋 Hi, I’m @Balasubramanian
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Full stack development
 - 📫 reach me @balumarketing2002@gmail.com
